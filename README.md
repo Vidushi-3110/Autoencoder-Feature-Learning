@@ -1,20 +1,25 @@
-# Autoencoder-Feature-Learning
+# Autoencoder Feature Learning
+
 Autoencoder models for feature learning using MNIST dataset (AE, DAE, SAE)
 
+---
 
 ## 📊 Results
 
 ### 🔹 Reconstruction
-![Reconstruction](images/loss.png)
+![Reconstruction](loss.png)
 
 ### 🔹 Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](heatmap.png)
 
 ### 🔹 Latent Space
-![Latent](images/latent.png)
+![Latent](latent.png)
 
 ### 🔹 PCA Visualization
-![PCA](images/pca.png)
+![PCA](pca.png)
 
 ### 🔹 Data Distribution
-![Distribution](images/distribution.png)
+![Distribution](distribution.png)
+
+### 🔹 MNIST Data 
+![MNIST Data set](mnist.png)
